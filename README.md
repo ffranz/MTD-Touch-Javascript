@@ -7,7 +7,7 @@ Check out the project home page:
 
 ## Requirements
 
-* [https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js](jQuery 1.4.3 +)
+* [jQuery 1.4.3 +](https://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js)
 * Designed for iPhone, iPod Touch and iPad.
 
 ## Changelog
